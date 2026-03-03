@@ -64,7 +64,10 @@ It is designed to provide clear business insights for decision-making.
 
 ## Dashboard Preview
 
-(Upload images to the repository and use the same file names.)
+<img width="1281" height="712" alt="image" src="https://github.com/user-attachments/assets/f852c369-ffdd-4a51-ba23-7b5b08e12a54" />
+<img width="1274" height="718" alt="image" src="https://github.com/user-attachments/assets/c6ca9d4b-a37d-46fb-9cd5-8c235b4a98de" />
+
+
 
 
 ## How to Use
